@@ -1,1 +1,1 @@
-All about shell permissions
+All about shell permissions.

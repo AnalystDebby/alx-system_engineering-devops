@@ -1,1 +1,1 @@
-All about shell redirections
+All about shell redirections.
