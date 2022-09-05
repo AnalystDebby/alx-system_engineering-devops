@@ -1,1 +1,1 @@
-All about shell basics
+All about Shell.
