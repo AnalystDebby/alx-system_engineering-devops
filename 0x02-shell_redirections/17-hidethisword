@@ -1,3 +1,4 @@
 #!/bin/match
-grep -iv bin /etc/passwd
+grep -v "bin" /etc/passwd
+
 
